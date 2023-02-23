@@ -7,7 +7,7 @@ import logoPNG from "/assets/logo.png";
 import logoSVG from "/assets/logo.svg";
 
 export interface Props {
-  activeNav?: "posts" | "tags" | "about" | "search";
+  activeNav?: "posts" | "links" | "dots" | "about";
 }
 
 const { activeNav } = Astro.props;
@@ -51,16 +51,26 @@ const { activeNav } = Astro.props;
             </a>
           </li>
           <li>
+            <a href="/links" class={activeNav === "links" ? "active" : ""}>
+              Links
+            </a>
+          </li>
+          <li>
+            <a href="/dots" class={activeNav === "dots" ? "active" : ""}>
+              Dots
+            </a>
+          </li>
+          <!-- <li>
             <a href="/tags" class={activeNav === "tags" ? "active" : ""}>
               Tags
             </a>
-          </li>
+          </li> -->
           <li>
             <a href="/about" class={activeNav === "about" ? "active" : ""}>
               About
             </a>
           </li>
-          <li>
+          <!-- <li>
             <LinkButton
               href="/search"
               className={`focus-outline p-3 sm:p-1 ${
@@ -77,7 +87,7 @@ const { activeNav } = Astro.props;
                 ></path>
               </svg>
             </LinkButton>
-          </li>
+          </li> -->
           <li>
             {
               SITE.lightAndDarkMode && (
@@ -125,6 +135,25 @@ const { activeNav } = Astro.props;
     @apply h-6 w-6 scale-125 fill-skin-base;
   }
 
+  <style > #skip-to-content {
+    @apply absolute -top-full left-16 z-50 bg-skin-accent py-2 px-3 text-skin-inverted transition-all focus:top-4;
+  }
+  .nav-container {
+    @apply mx-auto flex max-w-3xl flex-col items-center justify-between sm:flex-row;
+  }
+  .top-nav-wrap {
+    @apply relative flex w-full items-start justify-between p-4 sm:items-center sm:py-8;
+  }
+  .logo {
+    @apply absolute py-1 text-base font-semibold sm:text-xl;
+  }
+  .hamburger-menu {
+    @apply self-end p-2 sm:hidden;
+  }
+  .hamburger-menu svg {
+    @apply h-6 w-6 scale-125 fill-skin-base;
+  }
+
   nav {
     @apply flex w-full flex-col items-center bg-skin-fill sm:ml-2 sm:flex-row sm:justify-end sm:space-x-4 sm:py-0;
   }
@@ -140,10 +169,10 @@ const { activeNav } = Astro.props;
   nav ul li:nth-child(4) a {
     @apply w-auto;
   }
-  nav ul li:nth-child(4),
+  /* nav ul li:nth-child(4),
   nav ul li:nth-child(5) {
     @apply col-span-1;
-  }
+  } */
   nav a.active {
     @apply underline decoration-wavy decoration-2 underline-offset-4;
   }
@@ -191,7 +220,7 @@ const { activeNav } = Astro.props;
   const secondLine = document.querySelector("#second-line ")?.classList;
   const thirdLine = document.querySelector("#third-line")?.classList;
 
-  menuBtn?.addEventListener("click", function () {
+  menuBtn!.addEventListener("click", function (event) {
     const menuExpanded = menuBtn?.getAttribute("aria-expanded");
     if (menuExpanded === "false") {
       menuBtn?.setAttribute("aria-expanded", "true");
