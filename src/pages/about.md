@@ -3,34 +3,11 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hey there, I'm Charlie, a second-year studying computer science and economics at the University of Chicago. I currently aspire to work as a software engineer, product manager, or researcher somewhere at the cutting edge of technology; however, one day I would love to lead my own venture.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+I'm interested in a breadth of topics—computer science, technology, mathematics, physics, nutrition, and philosophy to name a few. I spend most of my free time studying computer science, more specifically functional programming, category theory, algorithms, and programming languages.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Other hobbies of mine include cooking, specialty coffee, reading, and listening to podcats. Check out my links page for more details!
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Currenly, I'm a research intern as a part of [Globus Labs](https://labs.globus.org/) at UChicago,
+assiting with the development of [ProxyStore](https://proxystore.readthedocs.io/en/latest/). Previously, I've interned as a software engineer a local startup, [FoodFight](https://www.getfoodfight.com/), and as a venture capital analyst at [JUMP Investors](https://jumpinvestors.com/). You can check out my full resume [here](https://drive.google.com/file/d/1vXVFs-rGtJTjWAPjgvHP2E8sORan5Vg7/view?usp=sharing).
