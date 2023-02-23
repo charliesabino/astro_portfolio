@@ -84,11 +84,11 @@ weighed against many alternatives.
 - [GR1 Slick](https://huckberry.com/store/goruck/category/p/62216-gr1-1000d-slick-21l)
   - The man who shops cheap shops twice. Buy it for life.
 - [Moft MagSafe Wallet](https://amzn.to/3RUCEeS)
-  - Game changer.
+  - Game changer. I've gifted it to three people who all love it as well.
 - [AirPods Pro Gen 2](https://amzn.to/3xkVemT)
   - A significant upgrade from the first generation.
 - [Kindle Paperwhite](https://amzn.to/3RYzRB6)
-  - I tend to prefer physical books for denser reads, but a Kindle is a game-changer nonetheless.
+  - I tend to prefer physical books for denser reads, but a Kindle is a life changing
     nonetheless. You will likely read more with a dedicated device than you will using the app.
 - [Nomad iPhone Case](https://nomadgoods.com/products/modern-leather-case-horween-black-iphone-14-pro-max)
 - [Nomad Universal Cable](https://nomadgoods.com/products/universal-usb-c-kevlar-cable-0-3m)
