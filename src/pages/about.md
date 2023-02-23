@@ -3,7 +3,10 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Hey there, I'm Charlie, a second-year studying computer science and economics at the University of Chicago. I currently aspire to work as a software engineer, product manager, or researcher somewhere at the cutting edge of technology; however, one day I would love to lead my own venture.
+Hey there, I'm Charlie, a second-year studying computer science and economics
+at the University of Chicago. I currently aspire to work as a software engineer,
+product manager, or researcher somewhere at the cutting edge of technology;
+however, one day I would love to lead my own biotech venture.
 
 I'm interested in a breadth of topics—computer science, mathematics,
 physics, literature, nutrition, and philosophy to name a few. I spend
