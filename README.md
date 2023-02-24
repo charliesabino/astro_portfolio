@@ -1,1 +1,1 @@
-My personal site created w/ Astro.
+My personal site built with Astro.
