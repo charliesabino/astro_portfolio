@@ -95,11 +95,9 @@ weighed against many alternatives.
 
 ## Coffee
 
-- [Fellow Ode Grinder](https://amzn.to/3iryTjA)
-  - Looks nice, but there are probably better options than this for the money.
-    The retention is pretty bad and it makes a mess. I've heard mixed things about the V2.
-    I'd recommend checking out the Option-O Lagom Mini instead.
-- [1Zpresso K-Max Manual Grinder](https://amzn.to/3vXbFF2)
+- [Option-O Lagom Mini w/ Moonshine Burrs](https://www.option-o.com/shop/lagom-mini)
+  - Compact, does it all, aesthetic—what's not to love?
+- [1Zpresso K-Max Hand Grinder](https://amzn.to/3vXbFF2)
 - [Fellow Stagg Kettle](https://amzn.to/3ivUBmH)
 - [Hario Switch](https://amzn.to/3VYqz8U)
 - [Aeropress](https://amzn.to/3X3MzjW)
