@@ -9,7 +9,8 @@ Below are pieces of software that make me happy.
 
 - [Neovim](https://neovim.io/)
   - A vastly superior fork of Vim. Highly exensible using Lua. Some of my favorite plugins include Neo-Tree, Telescope, ToggleTerm, cmp, and Which-Key.
-- [Kitty](https://sw.kovidgoyal.net/kitty/) - My terminal of choice. GPU rendered, easily configurable, and has built in terminal multiplexing
+- [Kitty](https://sw.kovidgoyal.net/kitty/)
+  - My terminal of choice. GPU rendered, easily configurable, and has built in terminal multiplexing
 
 ## Productivity
 
