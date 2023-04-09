@@ -27,10 +27,10 @@ Check out my [Goodreads](https://www.goodreads.com/user/show/106199148-charlie-s
 #### Philosophy
 
 - [_Meditations_ by Marcus Aurelius](https://www.goodreads.com/book/show/1168191.Meditations?ref=nav_sb_ss_1_19)
+- [_The Almanack of Naval Ravikant_ by Eric Jorgenson](2https://www.goodreads.com/book/show/55148500-the-almanack-of-naval-ravikant)
 
 #### Self-Help
 
-- [_The Almanack of Naval Ravikant_ by Eric Jorgenson](2https://www.goodreads.com/book/show/55148500-the-almanack-of-naval-ravikant)
 - [_Atomic Habits_ by James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits)
 - [_Deep Work_ by Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work)
 - [_Four Thousand Weeks_ by Oliver Burkeman](https://www.goodreads.com/book/show/54785515-four-thousand-weeks)
