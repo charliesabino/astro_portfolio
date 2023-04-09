@@ -37,6 +37,8 @@ Check out my [Goodreads](https://www.goodreads.com/user/show/106199148-charlie-s
 
 ## Literary Fiction
 
+- [_Don Quixote_ by Miguel de Cervantes](https://www.goodreads.com/book/show/3836.Don_Quixote)
+  - [Here](https://oyc.yale.edu/spanish-and-portuguese/span-300) is an excellent Open Yale lecture series to complement reading Don Quixote.
 - [_The Little Prince_ by Antoine de Saint-Exupéry](https://www.goodreads.com/book/show/157993.The_Little_Prince)
 - [_Siddhartha_ by Herman Hesse](https://www.goodreads.com/book/show/52036.Siddhartha?ref=nav_sb_ss_1_11)
 
