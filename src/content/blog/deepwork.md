@@ -1,14 +1,13 @@
 ---
 title: How to Live More Deeply in Our Distracted World
 author: Charlie Sabino
-pubDatetime: 2023-01-05T17:31:38.566896-06:00
-postSlug: my-mac-workflow
+pubDatetime: 2023-05-31T17:31:38.566896-06:00
+postSlug: deep-work
 featured: false
 draft: false
 tags:
-  - Mac
-  - Neovim
-  - Software
+  - Productivity
+  - Gear
 description: Tips to be more intentive in the hyper-digital era.
 ---
 
