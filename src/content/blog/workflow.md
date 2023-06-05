@@ -1,5 +1,5 @@
 ---
-title: My BLAZINGLY-FAST Mac Workflow
+title: My Blazingly Fast Mac Workflow
 author: Charlie Sabino
 pubDatetime: 2023-01-05T17:31:38.566896-06:00
 postSlug: my-mac-workflow
