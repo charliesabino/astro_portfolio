@@ -3,7 +3,7 @@ layout: ../layouts/DotsLayout.astro
 title: "Dots"
 ---
 
-Below are pieces of software that make me happy.
+Software that makes me happy.
 
 ## Dev Tools
 

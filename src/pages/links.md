@@ -15,6 +15,7 @@ Check out my [Goodreads](https://www.goodreads.com/user/show/106199148-charlie-s
 
 - [_Bad Blood_ by John Carreyou](https://www.goodreads.com/book/show/37976541-bad-blood)
 - [_Steve Jobs_ by Walter Isaacson](https://www.goodreads.com/book/show/11084145-steve-jobs)
+- [_Shoe Dog_ by Phil Knight](https://www.goodreads.com/book/show/27220736-shoe-dog?ac=1&from_search=true&qid=gc3pnsktYm&rank=1)
 
 #### Science
 
@@ -28,19 +29,14 @@ Check out my [Goodreads](https://www.goodreads.com/user/show/106199148-charlie-s
 
 - [_Meditations_ by Marcus Aurelius](https://www.goodreads.com/book/show/1168191.Meditations?ref=nav_sb_ss_1_19)
 - [_The Almanack of Naval Ravikant_ by Eric Jorgenson](2https://www.goodreads.com/book/show/55148500-the-almanack-of-naval-ravikant)
+- [_Siddhartha_ by Herman Hesse](https://www.goodreads.com/book/show/52036.Siddhartha?ref=nav_sb_ss_1_11)
+- [_The Little Prince_ by Antoine de Saint-Exupéry](https://www.goodreads.com/book/show/157993.The_Little_Prince)
 
 #### Self-Help
 
 - [_Atomic Habits_ by James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits)
 - [_Deep Work_ by Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work)
 - [_Four Thousand Weeks_ by Oliver Burkeman](https://www.goodreads.com/book/show/54785515-four-thousand-weeks)
-
-## Literary Fiction
-
-- [_Don Quixote_ by Miguel de Cervantes](https://www.goodreads.com/book/show/3836.Don_Quixote)
-  - [Here](https://oyc.yale.edu/spanish-and-portuguese/span-300) is an excellent Open Yale lecture series to complement reading Don Quixote.
-- [_The Little Prince_ by Antoine de Saint-Exupéry](https://www.goodreads.com/book/show/157993.The_Little_Prince)
-- [_Siddhartha_ by Herman Hesse](https://www.goodreads.com/book/show/52036.Siddhartha?ref=nav_sb_ss_1_11)
 
 ## Genre Fiction
 
@@ -70,16 +66,14 @@ Below are some titles that helped me create a reading habit.
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/)
 - [Huberman Lab](https://hubermanlab.com/)
 - [CoRecursive](https://corecursive.com/)
-- [ADSP](https://adspthepodcast.com/)
+- [How To Take Over the World](https://www.httotw.com/)
+<!-- - [ADSP](https://adspthepodcast.com/) -->
 - [LambdaCast](https://soundcloud.com/lambda-cast)
 - [Deep Dive with Ali Abdaal](https://aliabdaal.com/podcast/)
 
 &nbsp;
 
 # Gear
-
-I spend way too much time debating what stuff to buy. Most of these were thoughtful purchases
-weighed against many alternatives.
 
 ## Everyday Carry
 
@@ -98,19 +92,19 @@ weighed against many alternatives.
 
 - [Option-O Lagom Mini w/ Moonshine Burrs](https://www.option-o.com/shop/lagom-mini)
   - Compact, does it all, aesthetic—what's not to love?
-- [1Zpresso K-Max Hand Grinder](https://amzn.to/3vXbFF2)
 - [Fellow Stagg Kettle](https://amzn.to/3ivUBmH)
 - [Hario Switch](https://amzn.to/3VYqz8U)
 - [Aeropress](https://amzn.to/3X3MzjW)
 - [Fellow Stagg Tasting Glasses](https://amzn.to/3vQPiBh)
 - [Weber Bean Cellar](https://weberworkshops.com/products/bean-cellar-glass)
 - [Trade Coffee](https://www.drinktrade.com/)
+- [Onyx Coffee Lab](https://onyxcoffeelab.com/)
 
 ## Kitchen
 
 - [Breville Joule Sous Vide](https://amzn.to/3ljCTnq)
 - [Stargazer Cast Iron Skillet](https://stargazercastiron.com/products/12-inch-skillet)
-- [Corsori Air Fryer](https://amzn.to/3YhCCzR)
-- [Burrfection Japanese Knives Store](https://burrfectionstore.com/)
-  - I don't own anything from here yet, but I'm in the market for a Gyoto.
-- [Usuhari Daïginjo Glass](https://amzn.to/3Yfy2lR)
+  <!-- - [Corsori Air Fryer](https://amzn.to/3YhCCzR) -->
+  <!-- - [Burrfection Japanese Knives Store](https://burrfectionstore.com/) -->
+  <!--   - I don't own anything from here yet, but I'm in the market for a Gyoto. -->
+  <!-- - [Usuhari Daïginjo Glass](https://amzn.to/3Yfy2lR) -->
