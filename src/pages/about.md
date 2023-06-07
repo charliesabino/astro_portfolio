@@ -3,22 +3,20 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Hey there, I'm Charlie, a second-year studying computer science and economics
-at the University of Chicago. I currently aspire to work as a software engineer,
+Hey there, I'm Charlie, a third-year undergraduate at the University of Chicago
+studying computer science and economics. I currently aspire to work as a software engineer,
 product manager, or researcher somewhere at the cutting edge of technology;
-however, one day I would love to lead my own biotech venture.
+however, one day I would love to start my own (bio?)tech company.
 
-I'm interested in a breadth of topics—computer science, mathematics,
-physics, literature, nutrition, and philosophy to name a few. I spend
-most of my free time studying computer science, more specifically
-functional programming, category theory, algorithms, and programming languages.
+I'm interested in a breadth of topics: computer science, mathematics,
+physics, literature, neuroscience, and philosophy to name a few. I'm
+passionate learner and love it for its own sake.
 
-Other hobbies of mine include cooking, specialty coffee, reading, and listening
-to podcats. Check out my links page for more details!
+I like to spend my free time doing new things with friends,
+learning new technologies, cooking, over-engineering my coffee brewing process,
+reading, and listening to podcasts. Check out Links in the top bar for more specifics.
 
-Currenly, I'm working as an undergraduate research assistant at [Globus Labs](https://labs.globus.org/),
-assiting with the development of [ProxyStore](https://proxystore.readthedocs.io/en/latest/).
-Previously, I've interned as a software engineer a local startup,
-[FoodFight](https://www.getfoodfight.com/), and as a venture capital analyst at
-[JUMP Investors](https://jumpinvestors.com/). You can check out my full resume
-[here](https://drive.google.com/file/d/1vXVFs-rGtJTjWAPjgvHP2E8sORan5Vg7/view?usp=sharing).
+I have experience working as a software engineer, research assistant, and
+venture capital analyst—check out my [LinkedIn](https://www.linkedin.com/in/charlie-sabino/)
+or (possibly out of date) [resume](https://drive.google.com/file/d/1vXVFs-rGtJTjWAPjgvHP2E8sORan5Vg7/view?usp=sharing)
+for more details.
